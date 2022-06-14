@@ -1,21 +1,49 @@
 # portfolio
 
+Expro Lab Pvt Ltd.
+https://www.exprolab.com/
 
-https://www.trixlore.com/<br/>
-https://www.poliscore.com.au/<br/>
-https://www.instantscouting.com/<br/>
+Codeigniter Framework ( )
 
-Codeigniter Framework <br/>
+•	trixlore ( https://www.trixlore.com/ )
+•	artpur ( https://www.artpur.in/ )
+•	onlyspare ( https://www.onlyspare.com/ )
+•	eminencedigitech (https://www.eminencedigitech.in/ )
+•	nirnayakfinder ( https://www.nirnayakfinder.com/) 
+•	shasthobondhu ( https://www.shasthobondhu.com/ )
+•	surajitpramanick (https://www.surajitpramanick.com/ )
+•	glypticetutelage ( https://glypticetutelage.com/ )
+•	bigointeriors  (https://bigointeriors.com/ )
+•	iipars ( https://iipars.com/ )
 
-•	Poliscore  ( https://www.poliscore.com.au/ )<br/>
-•	SayMySay   (http://saymysay.net/)<br/>
-•	absolutecleaning ( https://www.absolutecleaning.ie/ )<br/>
+Ionic Framework (App)
 
+•	Bazarpe admin  ( https://play.google.com/store/apps/details?id=com.bazarpe.admin )
+•	Iipars ( https://play.google.com/store/apps/details?id=com.iipars.education )
 
-WordPress Framework <br/>
-•	asfit ( https://eclickprojects.com/asfit/ )<br/>
-•	locksafe ( https://eclickprojects.com/locksafe-new/ )<br/>
-•	agency ( http://agency.ie/ )<br/>
-•	newcode ( https://newcode.com.au/ )<br/>
-•	uberglass ( https://uberglass.com.au/ )<br/>
-•	qeep ( https://eclickprojects.com/qeep/ )<br/>
+	
+
+Eclick Softwares & Solutions Pvt Ltd.	
+https://www.eclicksoftwares.com/
+
+Codeigniter Framework ( Eclick )
+
+•	Poliscore  ( https://www.poliscore.com.au/ )
+•	SayMySay   (http://saymysay.net/)
+•	absolutecleaning ( https://www.absolutecleaning.ie/ )
+•	
+
+Ionic Framework (App)
+
+•	griffith-funeral
+•	blitz
+
+WordPress Framework
+
+•	asfit ( https://eclickprojects.com/asfit/ )
+•	locksafe ( https://eclickprojects.com/locksafe-new/ )
+•	agency ( http://agency.ie/ )
+•	newcode ( https://newcode.com.au/ )
+•	uberglass ( https://uberglass.com.au/ )
+•	qeep ( https://eclickprojects.com/qeep/ )
+

@@ -39,7 +39,7 @@ Codeigniter Framework ( Eclick )<br />
 
 Ionic Framework (App)<br />
 
-•	griffith-funeral<br />
+•	griffith-funeral  (https://play.google.com/store/apps/details?id=com.eclicksoftwares.griffithfuneral)<br />
 •	blitz<br />
 
 WordPress Framework<br />

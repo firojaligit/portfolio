@@ -33,9 +33,10 @@ Ionic Framework (App)<br />
 Codeigniter Framework ( Eclick )<br />
 
 •	Poliscore  ( https://www.poliscore.com.au/ )<br />
+•	Hissah (https://eclickapps.com/hissah/)<br />
 •	SayMySay   (http://saymysay.net/)<br />
 •	absolutecleaning ( https://www.absolutecleaning.ie/ )<br />
-•	
+•	prtnerup (https://eclickprojects.com/prtnerup/)
 
 Ionic Framework (App)<br />
 
@@ -50,4 +51,11 @@ WordPress Framework<br />
 •	newcode ( https://newcode.com.au/ )<br />
 •	uberglass ( https://uberglass.com.au/ )<br />
 •	qeep ( https://eclickprojects.com/qeep/ )<br />
+•	artem-tech-builds  ( https://eclickprojects.com/artem-tech-builds/ )<br />
+•	sydney-landscaping-solutions/blogs ( https://eclickprojects.com/sydney-landscaping-solutions/ )<br />
+•	printcom (https://eclickprojects.com/printcom)<br />
+
+Laravel Framework<br />
+
+•	nationalcarwashsales ( http://nationalcarwashsales.com.au/)   
 

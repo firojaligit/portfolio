@@ -12,7 +12,7 @@ Codeigniter Framework ( Eclick )<br />
 •	Hissah (https://eclickapps.com/hissah/)<br />
 •	SayMySay   (http://saymysay.net/)<br />
 •	absolutecleaning ( https://www.absolutecleaning.ie/ )<br />
-•	prtnerup (https://eclickprojects.com/prtnerup/)
+•	prtnerup (http://prtnerup.biz/)
 
 Ionic Framework (App)<br />
 

@@ -12,7 +12,9 @@ Codeigniter Framework ( Eclick )<br />
 •	Hissah (https://eclickapps.com/hissah/)<br />
 •	SayMySay   (http://saymysay.net/)<br />
 •	absolutecleaning ( https://www.absolutecleaning.ie/ )<br />
-•	prtnerup (http://prtnerup.biz/)
+•	prtnerup (http://prtnerup.biz/)<br />
+•	Made to Match ( https://madetomatch.club/)<br />
+•	IHG Industry  ( https://madetomatch.club/)<br />
 
 Ionic Framework (App)<br />
 
@@ -21,15 +23,18 @@ Ionic Framework (App)<br />
 
 WordPress Framework<br />
 
-•	asfit ( https://eclickprojects.com/asfit/ )<br />
-•	locksafe ( https://eclickprojects.com/locksafe-new/ )<br />
+•	asfit ( https://asfit.co.uk/ )<br />
+•	locksafe ( https://www.locksafe.ie/ )<br />
 •	agency ( http://agency.ie/ )<br />
 •	newcode ( https://newcode.com.au/ )<br />
 •	uberglass ( https://uberglass.com.au/ )<br />
-•	qeep ( https://eclickprojects.com/qeep/ )<br />
-•	artem-tech-builds  ( https://eclickprojects.com/artem-tech-builds/ )<br />
-•	sydney-landscaping-solutions/blogs ( https://eclickprojects.com/sydney-landscaping-solutions/ )<br />
-•	printcom (https://eclickprojects.com/printcom)<br />
+•	sydney-landscaping-solutions/blogs ( https://sydneylandscapesolutions.com.au/ )<br />
+•	Secure IT ( https://secureit.com.sg )<br />
+• certificat-constatator( https://www.certificat-constatator.eu/ )<br />
+• adrisol ( https://adrisol.com/ ) (woocommerce) <br />
+• hardwood ( https://hardwoodsgroup.com/) <br />
+• secureclaim ( https://secureclaim.com.au/ ) <br />
+• shingle roofing ( https://shingle.com.au/ ) <br />
 
 Laravel Framework<br />
 

@@ -13,7 +13,7 @@ Codeigniter Framework ( Eclick )<br />
 •	absolutecleaning ( https://www.absolutecleaning.ie/ )<br />
 •	prtnerup (http://prtnerup.biz/)<br />
 •	Made to Match ( https://madetomatch.club/)<br />
-•	IHG Industry  ( https://madetomatch.club/)<br />
+•	IHG Industry  ( https://ihgind.com/)<br />
 
 Ionic Framework (App)<br />
 

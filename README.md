@@ -9,7 +9,6 @@
 Codeigniter Framework ( Eclick )<br />
 
 •	Poliscore  ( https://www.poliscore.com.au/ )<br />
-•	Hissah (https://eclickapps.com/hissah/)<br />
 •	SayMySay   (http://saymysay.net/)<br />
 •	absolutecleaning ( https://www.absolutecleaning.ie/ )<br />
 •	prtnerup (http://prtnerup.biz/)<br />
